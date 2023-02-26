@@ -6,13 +6,13 @@ To use the chatbot, you'll need to have Python 3 and the Transformers library in
 
 bash
 
-> 'pip install transformers'
+'pip install transformers'
 Usage - 
 To start the chatbot, run the following command in your terminal or command prompt:
 
 bash
 
-> 'python chatbot.py'
+'python chatbot.py'
 The chatbot will start and prompt you for input. Enter your messages, and the chatbot will generate responses based on the GPT-2 model.
 
 You can customize the chatbot's behavior by modifying the code in chatbot.py. For example, you can change the prompt message, adjust the length of generated responses, or incorporate the chatbot into a larger application.
