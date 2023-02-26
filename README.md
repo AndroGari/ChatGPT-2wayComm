@@ -8,3 +8,15 @@ To use the chatbot, you'll need to have Python 3 and the Transformers library in
 
 ```bash
 pip install transformers
+```
+
+Usage
+To start the chatbot, run the following command in your terminal or command prompt:
+
+```bash
+python chatbot.py
+```
+The chatbot will start and prompt you for input. Enter your messages, and the chatbot will generate responses based on the GPT-2 model.
+
+
+This chatbot is based on the Hugging Face Transformers library and the GPT-2 language model from OpenAI. Special thanks to the developers of these tools for making natural language processing accessible to developers.
